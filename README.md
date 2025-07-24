@@ -16,6 +16,10 @@ This is a **React.js-based web application** that lets users generate trending m
 - **Frontend**: React.js, JavaScript, HTML, CSS
 - **Deployment**: Netlify
 
+## 📸 Preview
+
+<img width="1898" height="861" alt="Screenshot 2025-07-23 141159" src="https://github.com/user-attachments/assets/f7211965-115f-44a0-b851-87491bf6096a" />
+
 ## 🔗 Live Demo
 
 👉 [Check it out here](https://generate-trendingmemes.netlify.app)
