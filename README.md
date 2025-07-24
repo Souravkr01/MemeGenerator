@@ -1,4 +1,4 @@
-🤩 Trending Meme Generator App
+# 🤩 Trending Meme Generator App
 
 This is a **React.js-based web application** that lets users generate trending memes with customizable top and bottom text — and even lets you download the meme instantly.
 
