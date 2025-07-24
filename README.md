@@ -1,4 +1,4 @@
-# 🤩 Trending Meme Generator App
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/67f909eb-2b26-4f43-876b-87cd3157ab15" /># 🤩 Trending Meme Generator App
 
 This is a **React.js-based web application** that lets users generate trending memes with customizable top and bottom text — and even lets you download the meme instantly.
 
@@ -15,10 +15,6 @@ This is a **React.js-based web application** that lets users generate trending m
 
 - **Frontend**: React.js, JavaScript, HTML, CSS
 - **Deployment**: Netlify
-
-## 📸 Preview
-
-![Meme Generator UI](./screenshot.png)
 
 ## 🔗 Live Demo
 
